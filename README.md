@@ -122,9 +122,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Eigenlijk ging alles met vallen en opstaan. Sommige dingen gingen wel in één keer goed, zoals de afbeeldingen scrollbaar krijgen en het lettertype van loavies krijgen. Het lettertype heb ik gevonden door in de style van hun website te kijken bij het inspecteren. 
 
+  Voor de rest was het heel veel proberen wat wel lukt en wat niet lukt. Ik heb de tekst over de afbeelding gekregen door position absolute en relative, maar bij sommige heb ik weer grid gebruikt. Ik vind grid best lastig om te begrijpen. Ik denk telkens dat ik het begrijp en dan ga ik het zelf proberen en dan doet het niet wat ik wil. Ik ga zo in het voortgangsgesprek wat uitleg vragen als daar tijd voor is. 
 
+  Ik heb de homepagina ongeveer afgekregen. Op een paar buttons na, omdat ik er niet uitkom met grid. Ook de footer lukt niet helemaal. De detailpagina heb ik ook proberen te maken, maar dat lukt niet helemaal goed met aanspreken. Danny zei dat ik meerdere css bestanden kon aanmaken hiervoor. Maar ik vindt dat zelf heel ingewikkeld om te doen, omdat je dan ook een css bestand moet maken van stylen wat je in beide pagina's gebruikt.
   ### Agenda voor meeting
   samen met je groepje opstellen
 
